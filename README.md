@@ -16,20 +16,15 @@ This webpage uses semantic HTML elements, such as header, nav, section, article,
 The webpage's title element has been designed to be descriptive,  summarizing the content of the webpage. 
 
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/129602841/233494541-9a00809b-c764-4559-942e-e29ed09752c2.png)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+
 
 ## Credits
-
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
+https://www.w3schools.com/html/default.asp
+https://www.w3schools.com/css/default.asp
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+N/A
